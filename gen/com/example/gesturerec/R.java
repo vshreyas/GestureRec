@@ -35,12 +35,13 @@ public final class R {
         public static final int subah=0x7f02000b;
     }
     public static final class id {
-        public static final int action_settings=0x7f080005;
+        public static final int action_settings=0x7f080006;
+        public static final int button1=0x7f080005;
         public static final int letter_done_button=0x7f080002;
         public static final int main_layout=0x7f080000;
         public static final int recognize_button=0x7f080001;
-        public static final int result=0x7f080004;
-        public static final int word=0x7f080003;
+        public static final int result=0x7f080003;
+        public static final int word=0x7f080004;
     }
     public static final class layout {
         public static final int activity_gesture_rec=0x7f030000;
